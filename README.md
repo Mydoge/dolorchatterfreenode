@@ -1,0 +1,2 @@
+# dolorchatterfreenode
+Freenode chat
